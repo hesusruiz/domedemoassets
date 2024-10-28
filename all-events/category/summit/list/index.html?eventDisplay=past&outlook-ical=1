@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DOME - ECPv6.6.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://dome-marketplace.eu
+X-WR-CALDESC:Events for DOME
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20230326T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20231029T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20240331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20241027T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240918
+DTEND;VALUE=DATE:20240920
+DTSTAMP:20241028T131234
+CREATED:20240410T123257Z
+LAST-MODIFIED:20240410T123300Z
+UID:10000032-1726617600-1726790399@dome-marketplace.eu
+SUMMARY:Meet DOME Marketplace @ FIWARE Global Summit '24
+DESCRIPTION:Get ready for two days of world-class innovation\, collaboration\, and networking\nMark your calendars! Save the Date for the 10th Anniversary FIWARE Global Summit in Naples\, Italy\, on September 18-19\, 2024! \nDive into two days of innovation\, collaboration\, and networking against the picturesque backdrop of the stunning Mostra d’Oltremare venue in the seaside city. Join pioneers from open source companies\, cities\, universities\, and developers shaping the digital economy. This is a must-attend event for entrepreneurs\, public administrations\, academia\, startups\, and technologists. \nJoin celebrating the present\, and actively contribute to shaping the future! See you there! \n#FIWARESummit24 \n			\n			\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				Get ready for two days of world-class innovation\, collaboration\, and networking\n			\n				Join the Summit
+URL:https://dome-marketplace.eu/event/meet-dome-marketplace-fiware-global-summit-24/
+LOCATION:Mostra d’Oltremare\, Viale John Fitzgerald Kennedy 54\, Naples\, 80125\, Italy
+CATEGORIES:Summit
+ATTACH;FMTTYPE=image/png:https://dome-marketplace.eu/wp-content/uploads/FGS24_savethedate.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240312
+DTEND;VALUE=DATE:20240315
+DTSTAMP:20241028T131234
+CREATED:20231204T103431Z
+LAST-MODIFIED:20231206T170719Z
+UID:10000031-1710201600-1710460799@dome-marketplace.eu
+SUMMARY:Data Spaces Symposium - Unite. Innovate. Adopt. 12-14 March 2024
+DESCRIPTION:Mark your calendars: the 2024 Data Spaces Symposium is around the corner!\nThe world’s largest event on data spaces is coming back for a second edition – gathering industry leaders\, experts\, and policymakers to showcase endless market-ready use cases and exploring new frontiers in the Data Spaces journey! \nAfter the incredible success of the 2023 edition in The Hague\, the Data Spaces Support Centre (DSSC) and the Data Spaces Business Alliance are set to deliver a breathtaking event. This year’s edition\, taking place in Frankfurt\, will show endless market-ready use cases and advanced technology solutions for existing and future data spaces. Similarly\, it will showcase the pivotal work done by the Data Spaces Support Centre in providing a solid blueprint for common European data spaces\, acting as a cornerstone of the European Data Strategy. \nBe part of this revolutionary event! Mark your calendars and don’t forget to sign up for this pre-registration page: you will be the first to be notified once the official registration and ticketing system opens up. \nWould you like to have a look at the great takeaways from the 2023 edition? Visit this link: Data Spaces Symposium (data-spaces-symposium.eu) \n			\n				\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				Lorem ipsum dolor sit amet\, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes\, nascetur ridiculus mus. \n			\n			\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				Want to stay updated and know more about the event?\n			\n				Sign up for the DSSC Newsletter
+URL:https://dome-marketplace.eu/event/data-spaces-symposium-unite-harmonise-adopt-12-13-march-2024/
+LOCATION:Darmstadtium\, Frankfurt/Darmstadt\, 64283\, Germany
+CATEGORIES:Conference,Summit
+ATTACH;FMTTYPE=:
+GEO:49.8695282;8.6506852
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231107
+DTEND;VALUE=DATE:20231110
+DTSTAMP:20241028T131234
+CREATED:20231204T102549Z
+LAST-MODIFIED:20231204T102553Z
+UID:10000030-1699315200-1699574399@dome-marketplace.eu
+SUMMARY:Meet DOME @ Smart City Expo World Congress (SCEWC’23)
+DESCRIPTION:DOME is preparing for the Smart City Expo World Congress (SCEWC) in Barcelona\nAs a premier platform for urban innovation\, SCEWC gathers industry leaders\, visionaries\, and innovators to explore the latest in smart city solutions. FIWARE’s presence offers exciting opportunities for collaboration\, exhibition\, and networking within our dynamic community. \nThis year\, FIWARE is the official Event Partner\, aiming to make a significant impact. With a 280 square metre booth featuring a captivating new visual concept and the dynamic FIWARE Smart World demonstrator\, we’re ready to impress. The event’s packed agenda includes over 80 presentations on the FIWARE stage\, making it an unmissable opportunity to learn\, connect\, and showcase innovations. Join us in Barcelona to ignite innovation and shape the future of smart cities. \n			\n				\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				Lorem ipsum dolor sit amet\, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes\, nascetur ridiculus mus. \n			\n			\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				Want to know more about this world-class innovation\, collaboration\, and networking event?\n			\n				LINK TO THE EVENT
+URL:https://dome-marketplace.eu/event/meet-dome-smart-city-expo-world-congress-scewc23/
+LOCATION:Fira Barcelona\, Av. Joan Carles I\, 64\, Barcelona\, 08908\, Spain
+CATEGORIES:Conference,Summit
+ATTACH;FMTTYPE=image/png:https://dome-marketplace.eu/wp-content/uploads/FF_BannerSoMe_SCEWC23-1.png
+GEO:41.35457;2.1280828
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Fira Barcelona Av. Joan Carles I 64 Barcelona 08908 Spain;X-APPLE-RADIUS=500;X-TITLE=Av. Joan Carles I\, 64:geo:2.1280828,41.35457
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230612
+DTEND;VALUE=DATE:20230614
+DTSTAMP:20241028T131234
+CREATED:20230526T101853Z
+LAST-MODIFIED:20230528T193647Z
+UID:10000028-1686528000-1686700799@dome-marketplace.eu
+SUMMARY:Meet DOME @ FIWARE Global Summit
+DESCRIPTION:Get ready for two days of world-class innovation\, collaboration\, and networking\nOpen to all FIWARE enthusiasts and newbies\, members and partners\, from startups to global players\, public admins and academia\, from developers to strategists\, from project managers to CEOs. \nTechnology is changing the way we live\, work\, and engage with one another. FIWARE provides a helping hand to those who want to change the world\, foretell the future\, and transform markets for the better\, based on recognized Open Source technology. From startups and SMEs to global enterprises\, FIWARE helps today’s disruptors fully grasp what tomorrow has in store and how they can be part of this transformation journey. \n			\n			\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				Get ready for two days of world-class innovation\, collaboration\, and networking\n			\n				Join the Summit\n			\n			\n				\n				\n				\n				\n			\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				\n				PLEASE NOTE\nRegistration is required. You will find the access information for the event in the registration confirmation email.
+URL:https://dome-marketplace.eu/event/meet-dome-fiware-global-summit/
+LOCATION:Vienna City Hall\, Friedrich-Schmidt-Platz 1\, Vienna\, 1010
+CATEGORIES:Summit
+ATTACH;FMTTYPE=image/png:https://dome-marketplace.eu/wp-content/uploads/FGS23_GeneralBanner.png
+ORGANIZER;CN="DOME":MAILTO:info@dome-marketplace.eu
+GEO:48;16
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Vienna City Hall Friedrich-Schmidt-Platz 1 Vienna 1010;X-APPLE-RADIUS=500;X-TITLE=Friedrich-Schmidt-Platz 1:geo:16,48
+END:VEVENT
+END:VCALENDAR

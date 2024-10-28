@@ -1,0 +1,151 @@
+.et_pb_post .post-content p {
+  margin-bottom: 0px;
+}
+
+.et_pb_post .entry-featured-image-url {
+  margin-bottom: 0px;
+}
+
+/* .entry-title {
+  padding-top: 0px !important;
+  padding-bottom: 5px !important;
+  font-size: 22px !important;
+  line-height: 1.2em;
+  font-weight: 600;
+  color: #14274A !important;
+} */
+
+.et_pb_title_meta_container {
+  padding-top: 10px !important;
+}
+
+.et_pb_post:last-child,
+.et_pb_tab p:last-of-type {
+  margin-bottom: 0px !important;
+}
+
+.post-meta {
+  padding-bottom: 5px !important;
+  margin: 0px !important;
+}
+
+.progress {
+  height: 6px;
+  background-color: #2D58A7;
+  transition: all linear 0.1s;
+  min-width: 1%;
+  width: 1%;
+  bottom: 0;
+  margin-bottom: 0px;
+}
+
+.et_builder_inner_content.has_et_pb_sticky {
+  z-index: 1!important;
+}
+
+/* Tabs Latest News */
+
+ul.et_pb_tabs_controls {
+  background-color: rgba(255, 255, 255, 0);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 20px;
+  padding-bottom: 30px !important;
+}
+
+ul.et_pb_tabs_controls:after {
+  display: none;
+}
+
+.et_pb_tabs_controls li {
+  text-align: center;
+  border: 0px solid #2D58A7 !important;
+  border-radius: 15px;
+  padding: 6px 32px 8px;
+  width: 110px;
+}
+
+.et_pb_tabs_controls li a {
+  padding: 0;
+}
+
+.et_pb_blog_grid .et_pb_post {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+@media (max-width: 480px) {
+  .et_pb_tab {
+    padding: 24px 0;
+  }
+
+  ul.et_pb_tabs_controls {
+    gap: 15px;
+  }
+
+  .et_pb_tabs_controls li {
+    padding: 6px 20px 8px;
+    width: auto;
+  }
+
+  .et_pb_tabs_controls li a {
+    padding: 0;
+  }
+}
+
+/* Events Carousel */
+
+#ect-carousel-wrapper * {
+  font-family: "Work Sans" !important;
+}
+
+#ect-carousel-wrapper {
+  margin: 0px !important;
+}
+
+.ect-carousel-event-area {
+  padding-bottom: 0px !important;
+}
+
+.style-3 .ect-carousel-date {
+  padding: 10px 20px 0 !important;
+}
+
+.ect-carousel-title,
+.ect-carousel-venue,
+.ect-carousel-cost,
+.ect-carousel-readmore {
+  padding: 0 20px 0 !important;
+}
+
+#ect-carousel-wrapper .ect-carousel-title h4,
+#ect-carousel-wrapper .ect-carousel-title h4 a {
+  color: #00ccff !important;
+  font-weight: 500 !important;
+  font-size: 17px !important;
+}
+
+.style-3 .ect-carousel-title h4:before {
+  display: none !important;
+}
+
+#ect-carousel-wrapper .style-3 .ect-carousel-event-area {
+  border: 1px solid #ffffff !important;
+  border-radius: 0px;
+}
+
+.ect-carousel-readmore.full-view {
+  display: none !important;
+}
+
+@media (max-width: 480px) {
+  .ect-carousel-event,
+  .slick-track,
+  #ect-carousel-wrapper {
+    width: 100% !important;
+  }
+
+  .ect-carousel-event-area {
+    margin: 0px !important;
+  }
+}
